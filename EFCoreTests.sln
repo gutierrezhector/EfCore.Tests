@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityWithCompositeKeyTest", "EntityWithCompositeKeyTest\EntityWithCompositeKeyTest.csproj", "{FB178F9D-A9C4-45AB-A1C2-A2A41FDDE9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterceptorTest", "InterceptorTest\InterceptorTest.csproj", "{657FE8D5-C261-48E9-A088-E1D3858F5509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftJoinTest", "LeftJoinTest\LeftJoinTest.csproj", "{88D3480F-4F3E-4C1F-BD8C-9DEEB32C1047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB178F9D-A9C4-45AB-A1C2-A2A41FDDE9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB178F9D-A9C4-45AB-A1C2-A2A41FDDE9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB178F9D-A9C4-45AB-A1C2-A2A41FDDE9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB178F9D-A9C4-45AB-A1C2-A2A41FDDE9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657FE8D5-C261-48E9-A088-E1D3858F5509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657FE8D5-C261-48E9-A088-E1D3858F5509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657FE8D5-C261-48E9-A088-E1D3858F5509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657FE8D5-C261-48E9-A088-E1D3858F5509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D3480F-4F3E-4C1F-BD8C-9DEEB32C1047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D3480F-4F3E-4C1F-BD8C-9DEEB32C1047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D3480F-4F3E-4C1F-BD8C-9DEEB32C1047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D3480F-4F3E-4C1F-BD8C-9DEEB32C1047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
